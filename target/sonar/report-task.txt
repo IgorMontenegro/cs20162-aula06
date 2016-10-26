@@ -1,0 +1,5 @@
+projectKey=com.github.igormontenegro:cs20162-aula06
+serverUrl=https://sonarqube.com
+dashboardUrl=https://sonarqube.com/dashboard/index/com.github.igormontenegro:cs20162-aula06
+ceTaskId=AVgC9Ls7LK1WQEIFWv4J
+ceTaskUrl=https://sonarqube.com/api/ce/task?id=AVgC9Ls7LK1WQEIFWv4J
